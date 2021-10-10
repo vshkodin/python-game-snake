@@ -1,4 +1,4 @@
-### How to Play\
+### How to Play
 ```cmd
 python -m pip install --upgrade setuptools
 python --m pip install --upgrade pip
